@@ -1,0 +1,55 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  list-style-position: inside;
+  background-color: rgb(68, 68, 68);
+  color: white;
+}
+
+a {
+  color: white;
+  padding-bottom: 10px;
+}
+
+a:visited {
+  color: white;
+}
+
+a:active {
+  color: grey;
+}
+
+.home-page {
+  text-align: center;
+  background-color: rgb(80, 80, 80);
+  width: 35%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 125px;
+  margin-bottom: auto;
+  border-style: solid;
+}
+
+footer {
+  text-align: center;
+  margin-top: 0.5%;
+  font-size: 13px;
+}
+
+.home-button {
+  margin-top: 10px;
+  width: 150px;
+  font-size: 20px;
+}
+
+.ingredients {
+}
+
+#home-title {
+  margin-top: 20px;
+  text-decoration: underline;
+}
+
+.navlink {
+  margin-bottom: 10px;
+}
